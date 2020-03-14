@@ -1,0 +1,19 @@
+{
+  "name": "cordova-plugin-system-alert-window-permission",
+  "version": "1.0.0",
+  "description": "``` /* return 0 when dont have SYSTEM_ALERT_WINDOW permission, 1 when have SYSTEM_ALERT_WINDOW permission */ cordova.plugins.systemAlertWindowPermission.hasPermission(successFunction, errorFunction);",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jumanor/cordova-plugin-system-alert-window-permission.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jumanor/cordova-plugin-system-alert-window-permission/issues"
+  },
+  "homepage": "https://github.com/jumanor/cordova-plugin-system-alert-window-permission#readme"
+}
